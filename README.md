@@ -1,2 +1,2 @@
 # autonomas-json
-JSON de mulheres autonomas ficticias geradas aleatóriamente
+JSON de mulheres autonomas fictícias geradas aleatóriamente

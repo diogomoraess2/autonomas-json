@@ -22,7 +22,9 @@
 		"altura": "1,64",
 		"peso": 68,
 		"tipo_sanguineo": "A+",
-		"cor": "vermelho"
+		"cor": "vermelho",
+		"profissao": "Costureira",
+		"nomeComercial": "Marli Costura"
 	},
 	{
 		"nome": "Nicole Lavínia Marli Ferreira",
@@ -47,7 +49,9 @@
 		"altura": "1,81",
 		"peso": 59,
 		"tipo_sanguineo": "AB-",
-		"cor": "vermelho"
+		"cor": "vermelho",
+		"profissao": "Pedicure",
+		"nomeComercial": "Nicole Lavínia"
 	},
 	{
 		"nome": "Débora Patrícia Vitória Aragão",
@@ -72,7 +76,9 @@
 		"altura": "1,78",
 		"peso": 62,
 		"tipo_sanguineo": "AB-",
-		"cor": "vermelho"
+		"cor": "vermelho",
+		"profi": "Cozinheira",
+		"nomeComercial": "Deborah Marmitas"
 	},
 	{
 		"nome": "Raquel Carolina Bianca Duarte",
@@ -97,7 +103,9 @@
 		"altura": "1,70",
 		"peso": 53,
 		"tipo_sanguineo": "B-",
-		"cor": "vermelho"
+		"cor": "vermelho",
+		"profissao": "Artista Plástica",
+		"nomeComercial": "Raquel Carolina"
 	},
 	{
 		"nome": "Evelyn Brenda Gomes",
@@ -122,7 +130,9 @@
 		"altura": "1,76",
 		"peso": 85,
 		"tipo_sanguineo": "O+",
-		"cor": "vermelho"
+		"cor": "vermelho",
+		"profissao": "Manicure",
+		"nomeComercial": "Evelyn Mãos"
 	},
 	{
 		"nome": "Sandra Marcela Emily Souza",
@@ -147,7 +157,9 @@
 		"altura": "1,75",
 		"peso": 80,
 		"tipo_sanguineo": "B-",
-		"cor": "preto"
+		"cor": "preto",
+		"profissao": "Veterinaria",
+		"nomeComercial": "ForPets"
 	},
 	{
 		"nome": "Priscila Sabrina Barros",
@@ -172,7 +184,9 @@
 		"altura": "1,83",
 		"peso": 78,
 		"tipo_sanguineo": "B+",
-		"cor": "amarelo"
+		"cor": "amarelo",
+		"profissao": "Pedicure",
+		"nomeComercial": "Priscila Sabrina"
 	},
 	{
 		"nome": "Sara Flávia Viana",
@@ -197,7 +211,9 @@
 		"altura": "1,57",
 		"peso": 88,
 		"tipo_sanguineo": "O+",
-		"cor": "vermelho"
+		"cor": "vermelho",
+		"profissao": "Rerendedora de cosméticos",
+		"nomeComercial": "Sara Natura"
 	},
 	{
 		"nome": "Bruna Eduarda Pietra Silva",
@@ -222,7 +238,9 @@
 		"altura": "1,69",
 		"peso": 76,
 		"tipo_sanguineo": "B-",
-		"cor": "vermelho"
+		"cor": "vermelho",
+		"profissao": "Fisioterapeuta",
+		"nomeComercial": "Bruna Eduarda Pietra Silva"
 	},
 	{
 		"nome": "Caroline Clara Allana Vieira",
@@ -247,6 +265,8 @@
 		"altura": "1,51",
 		"peso": 60,
 		"tipo_sanguineo": "AB+",
-		"cor": "verde"
+		"cor": "verde",
+		"profissao": "Médica",
+		"nomeComercial": "Dra. Caroline Allana Vieira"
 	}
 ]
